@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning *Elixir*
+- 5 Years of Experience as a Frontend Engineer.
+- 2 Years of Experience as a Full-Stack Engineer.
+- I'm looking for new roles in UI Design, UX Research, or the Elixir Programming Language.
+- 
