@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 5 Years of Experience as a Frontend Engineer.
-- 2 Years of Experience as a Full-Stack Engineer.
-- I'm looking for new roles in UI Design, UX Research, or the Elixir Programming Language.
-- 
+- 4.5 Years of Experience as a Frontend Engineer.
+- 1 Years of Experience as a Full-Stack Engineer.
