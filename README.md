@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/178b5dc0-8938-4f42-a592-ee33be9ebe8a/thumbnail" >
+</p>
+
 I'm a Full Stack Engineer with a strong foundation in frontend technologies and a growing expertise in backend development. I specialize in building scalable, responsive web applications using React.js, Next.js, TypeScript, C#, ASP.NET, and Microsoft SQL Server, with deployments on cloud platforms such as Azure.
 
 My background in frontend engineering has shaped a meticulous approach to building user-centric interfaces, from translating design mockups into performant code to optimizing user experiences across devices. I’ve led the modernization of web applications, streamlined deployment pipelines with Kubernetes on Amazon EKS, and introduced architectural improvements that enhanced maintainability and performance.
